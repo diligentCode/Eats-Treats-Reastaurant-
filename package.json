@@ -1,0 +1,21 @@
+{
+  "name": "eats-treats-reastaurant-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diligentCode/Eats-Treats-Reastaurant-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/diligentCode/Eats-Treats-Reastaurant-/issues"
+  },
+  "homepage": "https://github.com/diligentCode/Eats-Treats-Reastaurant-#readme"
+}
