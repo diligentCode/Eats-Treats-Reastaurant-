@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/diligentCode/Eats-Treats-Reastaurant-/issues"
   },
-  "homepage": "https://github.com/diligentCode/Eats-Treats-Reastaurant-#readme"
+  "homepage": "https://github.com/diligentCode/Eats-Treats-Reastaurant-#readme",
+  "devDependencies": {
+    "webpack": "^5.105.4",
+    "webpack-cli": "^7.0.2"
+  }
 }
