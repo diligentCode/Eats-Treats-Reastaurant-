@@ -57,11 +57,15 @@ nav {
   background: none;
   border: none;
   cursor: pointer;
-
+  padding: 5px;
   color: white;
   text-decoration: none;
   font-size: 0.9rem;
   font-weight: 900;
+}
+.nav-right > button:hover {
+  opacity: 0.6;
+  border-inline-start: 1px solid white;
 }
 
 /* Hero Section */
