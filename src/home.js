@@ -1,3 +1,4 @@
+import "./home.css";
 import foodImage1 from "./assets/images/food-image1.jpg";
 import foodImage2 from "./assets/images/food-image2.jpg";
 import foodImage3 from "./assets/images/food-image3.jpg";
